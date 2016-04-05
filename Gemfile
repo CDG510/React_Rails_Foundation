@@ -28,6 +28,8 @@ gem 'slim'
 
 #foundation
 gem 'foundation-rails'
+gem 'autoprefixer-rails'
+
 
 # React view integration
 gem 'react-rails', '~> 1.6.0'
