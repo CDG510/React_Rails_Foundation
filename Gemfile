@@ -35,6 +35,9 @@ gem 'react-rails', '~> 1.6.0'
 # Devise Integration
 gem 'devise'
 
+#react inegration
+
+gem 'showdown-rails'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 
